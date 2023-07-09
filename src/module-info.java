@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author talyt
+ *
+ */
+module cofrinho {
+}
